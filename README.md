@@ -9,6 +9,7 @@ This repository contains the core documents of the Node Capitalism project.
 
 ## Structure
 
+\`\`\`
 node-capitalism/
 ├─ manifesto/
 │ └─ Node-Capitalism-Manifesto.md
@@ -17,6 +18,7 @@ node-capitalism/
 │ └─ Node-Capitalism-Whitepaper.pdf
 └─ appendix/
 └─ Technical-Appendix.md
+\`\`\`
 ---
 
 ## Documents
