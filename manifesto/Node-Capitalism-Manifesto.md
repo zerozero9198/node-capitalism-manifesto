@@ -1,1 +1,1 @@
-
+Node_Capitalism_Manifesto_v1_EN.pdf
