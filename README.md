@@ -24,13 +24,13 @@ This repository hosts the full documentation for **Node Capitalism**, a framewor
 
 ### 1. Whitepaper (상세 분석 및 메커니즘)
 
-* [Whitepaper (PDF)](/whitepaper/Node-Capitalism-Whitepaper-v1.0-KR.pdf)
+* [Whitepaper-KR (PDF)](/whitepaper/Node-Capitalism-Whitepaper-v1.0-KR.pdf)
 * [Whitepaper (Markdown Source)](/whitepaper/Node-Capitalism-Whitepaper.md)
 
 ### 2. Manifesto (철학적 핵심 선언)
 
-* [Manifesto (PDF)](/manifesto/Node_Capitalism_Manifesto_v1_KR.pdf)
-* [Manifesto (PDF)](/manifesto/Node_Capitalism_Manifesto_v1_EN.pdf)
+* [Manifesto-KR (PDF)](/manifesto/Node_Capitalism_Manifesto_v1_KR.pdf)
+* [Manifesto-EN (PDF)](/manifesto/Node_Capitalism_Manifesto_v1_EN.pdf)
 * [Manifesto (Markdown Source)](/manifesto/Node-Capitalism-Manifesto.md)
 
 ---
