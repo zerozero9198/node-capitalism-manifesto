@@ -1,30 +1,32 @@
-# 🌐 Node Capitalism Manifesto v1.0  
-### — For the Age of Re-Definition —  
-Authored by ZeroZero | 2025  
+# Node Capitalism
+
+A conceptual framework describing the shift from centralized systems  
+to a world of autonomous, energy-driven nodes.
+
+This repository contains the core documents of the Node Capitalism project.
 
 ---
 
-## 📜 Declaration Files
-- [English Version (PDF)](./Node_Capitalism_Manifesto_v1_EN.pdf)  
-- [Korean Version (PDF)](./Node_Capitalism_Manifesto_v1_KR.pdf)  
+## Structure
+
 
 ---
 
-## 🪶 About
-**Node Capitalism** is a new philosophy redefining the meaning of capital, trust, and existence itself.  
-It envisions a world where each individual becomes an autonomous node —  
-producing and sharing energy, data, and value within a distributed ecosystem.
+## Documents
+
+### • Manifesto  
+A philosophical introduction to the idea of Node Capitalism.
+
+### • Whitepaper  
+A comprehensive explanation of the model, its logic, and its implications.
+
+### • Technical Appendix  
+Notes and technical expansions related to tokenization, nodes, and energy systems.
 
 ---
 
-## 🔗 Core Concepts
-- “Everything Must Be Re-Proven.”  
-- “Energy circulates as proof of life.”  
-- “We are not users of systems anymore. We are the nodes of civilization.”
+## Purpose
 
----
-
-## 🧠 Author
-ZeroZero  
-X: [@twosun72](https://x.com/twosun72)  
-#NodeCapitalism #TeslaNode #ReDefinition
+This repository serves as a living documentation space  
+for an emerging paradigm:  
+**a tokenized, energy-based, distributed civilization.**
