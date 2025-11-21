@@ -4,7 +4,7 @@
 
 This repository hosts the full documentation for **Node Capitalism**, a framework defining the new civilization operating system based on measurable **Proof of Energy**.
 
-우리는 신뢰가 주관적인 인간의 약속에서 객관적이고 검증 가능한 물리 법칙으로 이동하고 있다고 주장합니다. 이는 **'시스템의 사용자 (NPC)'**에서 **'자율적인 노드'**로 진화하는 문명 전환입니다.
+우리는 신뢰가 주관적인 인간의 약속에서 객관적이고 검증 가능한 물리 법칙으로 이동하고 있다고 주장합니다. 이는 '시스템의 사용자 (NPC)'에서 '자율적인 노드'로 진화하는 문명 전환입니다.
 
 ---
 
