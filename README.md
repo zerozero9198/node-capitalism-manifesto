@@ -29,6 +29,8 @@ This repository hosts the full documentation for **Node Capitalism**, a framewor
 
 ### 2. Manifesto (철학적 핵심 선언)
 
+* [Manifesto (PDF)](/manifesto/Node_Capitalism_Manifesto_v1_KR.pdf)
+* [Manifesto (PDF)](/manifesto/Node_Capitalism_Manifesto_v1_EN.pdf)
 * [Manifesto (Markdown Source)](/manifesto/Node-Capitalism-Manifesto.md)
 
 ---
