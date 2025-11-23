@@ -4,7 +4,7 @@
 
 | 구분 | 정보 |
 | :--- | :--- |
-| **저자 (Author)** | ZeroZero (X: @zerozero9198) |
+| **저자 (Author)** | ZeroZero (X: @twosun72) |
 | **공개일 (First Published)** | 2025년 11월 20일 |
 
 ---
