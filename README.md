@@ -37,6 +37,7 @@
 ### 1. Whitepaper (상세 분석 및 메커니즘)
 
 * [Whitepaper-KR (PDF)](/whitepaper/Node-Capitalism-Whitepaper-v1.0-KR.pdf)
+* [Whitepaper-EN (PDF)](/whitepaper/Node_Capitalism_Whitepaper_V1.0_EN.pdf)
 * [Whitepaper (Markdown Source)](/whitepaper/Node-Capitalism-Whitepaper.md)
 
 ### 2. Manifesto (철학적 핵심 선언)
