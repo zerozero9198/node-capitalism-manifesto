@@ -12,7 +12,7 @@ A new economic operating system where truth is proven by energy, not votes.
 - Published: Nov 20, 2025
 
 ### Whitepaper (Architecture)
-- [English PDF](./whitepaper/Node_Capitalism_Whitepaper_V1.0_EN.pdf) | [한국어 PDF](./whitepaper/Node-Capitalism-Whitepaper-v1.0-KR.pdf)
+- [English PDF](./whitepaper/Node-Capitalism-Whitepaper-v1.0-EN.pdf) | [한국어 PDF](./whitepaper/Node-Capitalism-Whitepaper-v1.0-KR.pdf)
 
 ### Technical Spec v1.0 — PoET (NEW)
 > **Proof of Energy Transaction**  
